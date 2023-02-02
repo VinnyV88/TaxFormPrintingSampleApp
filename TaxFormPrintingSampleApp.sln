@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxFormPrintingSample", "TaxFormPrintingSample\TaxFormPrintingSample.csproj", "{B41E2B5C-3780-4398-B04C-B3D270A0269F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronTaxFormPrinting", "IronTaxFormPrinting\IronTaxFormPrinting.csproj", "{81FA6CA9-D991-400E-B153-BA3146953A7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41E2B5C-3780-4398-B04C-B3D270A0269F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41E2B5C-3780-4398-B04C-B3D270A0269F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41E2B5C-3780-4398-B04C-B3D270A0269F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41E2B5C-3780-4398-B04C-B3D270A0269F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FA6CA9-D991-400E-B153-BA3146953A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FA6CA9-D991-400E-B153-BA3146953A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FA6CA9-D991-400E-B153-BA3146953A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FA6CA9-D991-400E-B153-BA3146953A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87292C91-A45F-4054-8ED1-CD1AD4F3BE1C}
+	EndGlobalSection
+EndGlobal
